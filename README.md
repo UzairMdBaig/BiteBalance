@@ -2,7 +2,7 @@
 
 BiteBalance is an innovative LLM-powered app that delivers personalized
 recipes based on users' health profiles.It Leverages React and Tailwind CSS to create a responsive
-single-page application. It has Firebase Authentication for secure login and integrated Firestore
+single-page application. Firebase Authentication is used for login implementation and integrated Firestore
 for real-time data management.
 
 
