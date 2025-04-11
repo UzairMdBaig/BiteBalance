@@ -1,7 +1,7 @@
-# BiteBalance
+# Front-end for BiteBalance
 
-BiteBalance is an innovative LLM-powered app that delivers personalized
-recipes based on users' health profiles.It Leverages React and Tailwind CSS to create a responsive
+Created frontend for BiteBalance, a LLM-powered app that delivers personalized
+recipes based on user's health profiles. Utilized React and Tailwind CSS to create a responsive
 single-page application. Firebase Authentication is used for login implementation and integrated Firestore
 for real-time data management.
 
